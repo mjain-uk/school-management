@@ -174,3 +174,14 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Poetry
+poetry.lock
+.venv/
+dist/
+*.egg-info/
+
+# Python virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
